@@ -1,4 +1,5 @@
-Zeynep Sena Tınaz - Gizem Yüzer - Erva Yurtbaş
+This is a Hw project for MAchine Learnin Class MİS49Y,
+Coders:Zeynep Sena Tınaz - Gizem Yüzer - Erva Yurtbaş
 
 dataset link: https://www.kaggle.com/datasets/joebeachcapital/cirrhosis-patient-survival-prediction/data
 
